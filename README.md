@@ -104,6 +104,12 @@ Replacing the six timers with **one shared timer** whose preset is selected by t
 
 ## Tools
 
+
+
+https://github.com/user-attachments/assets/d9b297d9-58ed-4394-9b4b-8852d67edff2
+
+
+
 - OpenPLC Editor v4 (Ladder Diagram, IEC 61131-3)
 - OpenPLC Simulator
 - Elegoo Uno R3
