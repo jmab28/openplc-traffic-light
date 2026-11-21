@@ -2,8 +2,10 @@
 
 A two-way traffic light intersection (North-South and East-West) written in **IEC 61131-3 Ladder Logic** with **OpenPLC Editor v4**, tested in the OpenPLC Simulator and then deployed to an **Elegoo Uno R3** driving real LEDs and pushbuttons.
 
-![Breadboard build](images/build.jpg)
-(images/build2.jpg)
+<p align="center">
+  <img src="images/build.jpg" alt="Breadboard build" width="40%">
+  <img src="images/build2.jpg" alt="Breadboard build, second view" width="40%">
+</p>
 ---
 
 ## Features
