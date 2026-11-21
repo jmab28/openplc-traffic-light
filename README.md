@@ -96,13 +96,8 @@ Replacing the six timers with **one shared timer** whose preset is selected by t
 | Stop | Tap Stop mid-cycle | Both reds on immediately; stays stopped |
 | Restart | Tap Start again | Cycle restarts from all-red |
 
-## Possible extensions
 
-- Pedestrian WALK request (latched, served on the next North-South green)
-- Night mode (flashing reds)
-- Conflict monitor that latches a fault if both directions are ever green/yellow
-
-## Tools
+## Video Example
 
 
 
