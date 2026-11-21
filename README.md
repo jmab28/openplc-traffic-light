@@ -34,7 +34,7 @@ Full cycle: 28 s.
 | Elegoo Uno R3 (ATmega328P) | 1 |
 | LEDs: red, yellow, green | 2 each |
 | 220 Ω resistors (LED current limiting) | 6 |
-| Tactile pushbuttons | 2 |
+| Pushbuttons | 2 |
 | 10 kΩ resistors (button pull-downs) | 2 |
 | Breadboard and jumper wires | – |
 
